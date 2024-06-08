@@ -1,15 +1,15 @@
 {
   "TeamDetails" : [
     {
-      "S.No" : 1,
-      "SAP ID" : 12345678,
-      "First Name" : "Doddapaneni",
-      "Last Name" : "Dedeepya",
-      "Email" : "v-abc@microsoft.com",
-      "Phone Number" : 9876543210,
-      "Reporting Manager" : "Venkatesh",
-      "Working Location" : "Hyderabad",
-      "Role" : "GET"
+      "SNo" : 1,
+      "SapID" : 12345678,
+      "firstName" : "Doddapaneni",
+      "lastName" : "Dedeepya",
+      "email" : "v-abc@microsoft.com",
+      "phoneNumber" : 9876543210,
+      "reportingManager" : "Venkatesh",
+      "workingLocation" : "Hyderabad",
+      "role" : "GET"
     }
   ]
 }
