@@ -55,5 +55,18 @@
       "workingLocation" : "Hyderabad",
       "role" : "GET"
     }
+  ],
+  
+  "UserDetails":[
+    {
+      "firstName": "Doddapaneni",
+      "lastName": "Dedeepya",
+      "emailId": "v-abc@microsoft.com",
+      "sapId": 12345678,
+      "designation": "GET",
+      "phoneNumber": 9876543210,
+      "projectTrack": "SDN",
+      "address": "Hyderabad"
+    }
   ]
 }
